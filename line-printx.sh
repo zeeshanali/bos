@@ -11,3 +11,5 @@ while read -r line; do
   #code for passing id to other script file as parameter
 done < "$filename"
 
+## use like
+## line-printx.sh filename.txt
